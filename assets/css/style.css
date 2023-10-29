@@ -1569,14 +1569,6 @@ ul.accordion ul li a span {
  <-- Thrown Counter Area Css-->
 ===================================================*/
 
-.counter-area {
-    background: url(../images/resource/counter-bg.png);
-    background-size: cover;
-    background-position: center center;
-    background-repeat: no-repeat;
-    padding: 100px 0 100px;
-    position: relative;
-}
 
 .counter-single-box {
     text-align: center;
@@ -1907,7 +1899,6 @@ ul.accordion ul li a span {
 ===================================================*/
 
 .footer-area {
-    background: url(../images/footer/foooter-bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 104px 0 0px;
@@ -2362,13 +2353,7 @@ ul.accordion ul li a span {
 =================================================================*/
 
 
-.contact-area {
-    background: url(../images/resource/contact-bg.png);
-    background-size: cover;
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-attachment:fixed;
-}
+
 
 .contact-discription p {
     color: var(--neutral-30, #EDEDED);
